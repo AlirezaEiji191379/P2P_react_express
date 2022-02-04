@@ -7,7 +7,7 @@ To launch this app, follow these steps:
 1. Clone the repo and change into the directory:
 
 ```sh
-git clone git@github.com:dabit3/react-p2p-messaging.git
+git clone git@github.com/AlirezaEiji191379/P2P_react_express
 
 cd react-p2p-messaging
 ```
